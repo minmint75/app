@@ -13,7 +13,7 @@ export default function Index() {
     >
       <Demo1/>
       <Demo2/>
-      <Text>Edit app/index.tsx to edit this screen.</Text>
+      <Text>Edit app/index.tsx djt me doi.</Text>
     </View>
   );
 }
